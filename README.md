@@ -21,4 +21,4 @@ jupyter lab
 ```
 ## Projects
 - [Moving-Average Crossover](./projects/moving-average-crossover/README.md)
-- [Efficient Frontier](./projects/efficient-frontier/README.md)
+
