@@ -18,3 +18,7 @@ cd Quant-Finance-Journey
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter lab
+```
+## Projects
+- [Moving-Average Crossover](./projects/moving-average-crossover/README.md)
+- [Efficient Frontier](./projects/efficient-frontier/README.md)
