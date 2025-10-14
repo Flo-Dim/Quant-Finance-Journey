@@ -14,7 +14,7 @@
 ### 🧭 Overview  
 
 Welcome to my **Quant-Finance-Journey** — an open-source notebook series documenting my progress in  
-📈 *quantitative finance*, ⚙️ *systematic trading*, and 🧮 *data-driven portfolio research*.  
+*quantitative finance*, *systematic trading*, and *data-driven portfolio research*.  
 
 Each project is **reproducible, versioned**, and **transparent**, so anyone can learn or build upon it.  
 The repository grows continuously as I explore new topics in markets, statistics, and machine learning.
