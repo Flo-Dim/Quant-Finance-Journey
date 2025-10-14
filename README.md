@@ -27,7 +27,6 @@ The repository grows continuously as I explore new topics in markets, statistics
 |---------|-------------|
 | 📁 `projects/` | Polished mini-projects (each with its own README & visuals) |
 | 📘 `notebooks/` | Exploratory notebooks by topic (volatility, backtesting, risk, etc.) |
-| ⚙️ `src/` | Helper scripts for data loading, metrics, and plotting |
 | 💾 `data/` | Local dataset cache *(not tracked in Git)* |
 | 📊 `reports/` | Generated tables, results, and figures |
 | 🖼️ `docs/` | Explanatory write-ups, charts, and documentation |
