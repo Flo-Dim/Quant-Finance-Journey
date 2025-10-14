@@ -83,7 +83,7 @@ Both aim to capture medium-term trends while avoiding large drawdowns during mar
 
 ### ❌ What Didn’t
 - Frequent **false signals** in sideways markets.  
-- Missed large parts of rallies in strong bull trends (e.g., Apple 2020–2025).  
+- Missed large parts of rallies in strong bull trends (example, Apple 2020–2025).  
 - Sensitivity to parameter choice (20/50 too short for trending assets).
 
 ### 🔄 Next Steps
