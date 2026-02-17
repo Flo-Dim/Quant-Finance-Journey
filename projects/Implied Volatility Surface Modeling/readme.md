@@ -1,4 +1,4 @@
-# Derivatives Pricing & Volatility Analytics Platform 
+# Options Implied Volatility & Greeks Analytics Platform  
 
 This project is currently being developed **locally**.  
 All work, tests, and experiments are in progress and not yet finalized or deployed.
